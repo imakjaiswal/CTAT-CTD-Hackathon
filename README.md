@@ -6,14 +6,12 @@ You can run the code in two ways:
 
 #### Option A: Using Jupyter Notebook (Recommended)
 
-1.  Open your terminal or command prompt and start Jupyter Notebook by running:
+1. Open your terminal or command prompt and start Jupyter Notebook by running:
     ```bash
     jupyter notebook
     ```
-2.  In the browser window that opens, navigate to and open the `Code.ipynb` file.
+2. In the browser window that opens, navigate to and open the `Code.ipynb` file.
 
-3.  Run
-   ```bash
-    python Code.py
-   ```
-5. The Submission.csv will be generated.
+3. Run each cell in Code.py
+
+4. The submission.csv will be generated.
